@@ -72,3 +72,12 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 Project Fetch URL:
 REACT_APP_FETCH_API_URL = "http://www.omdbapi.com?apikey={key_id_from_omdbapi}"
+
+Screen Shot Moviland App
+
+![MovilandAppPage1](https://user-images.githubusercontent.com/47810926/228723589-008d7177-4e8a-4b7c-8269-0e0200c59e90.png)
+
+![MovieLandAppPage2](https://user-images.githubusercontent.com/47810926/228723908-df65438e-91b3-47cb-9252-0c823861af9a.png)
+
+![MovieLandAppPage3-Responsive](https://user-images.githubusercontent.com/47810926/228724072-d23aacaf-f47f-4e56-89e0-23fe3c43c6df.png)
+
